@@ -1,1 +1,1 @@
-# js-pwdgen-wannabe
+# Quattordicemo Esercizio Boolean / inizio JS
